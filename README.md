@@ -16,7 +16,7 @@ GitHub allows you to create a special repository with your username that display
 ## Recommended README.md Content
 
 ```markdown
-# Pheelymon Oftan
+# Pheelymon
 
 ## Full-Stack Developer | Web & App Developer | Bot Developer | Graphic Designer
 
