@@ -45,10 +45,9 @@ Hello! I'm a versatile developer specializing in creating websites, applications
 
 ### 📱 Connect with Me
 
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- Portfolio: [quickreplies.liv](https://quickreplies.live)
 - Instagram: [@pheelymon.oftan](https://instagram.com/pheelymon.oftan)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- Email: pheelymon@gmail.com
 
 ### 📌 Featured Projects
 
